@@ -5,10 +5,7 @@
  */
 package ranfood;
 
-/**
- *
- * @author Ramis
- */
+
 class Pepsi extends ColdDrink {
     
     @Override
