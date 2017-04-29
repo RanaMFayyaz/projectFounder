@@ -7,7 +7,6 @@ package ranfood;
 
 /**
  *
- * @author Ramis
  */
 class VegBurger extends Burger {
     
