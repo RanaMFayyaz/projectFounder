@@ -5,10 +5,7 @@
  */
 package ranfood;
 
-/**
- *
- * @author Ramis
- */
+
 class MealBuilder {
     
     public Meal prepareVegMeal() {
