@@ -7,7 +7,8 @@ package ranfood;
 
 /**
  *
- * @author Ramis
+ * 
+ 
  */
 class Bottle implements Packing {
     
