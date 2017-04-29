@@ -5,10 +5,7 @@
  */
 package ranfood;
 
-/**
- *
- * @author Ramis
- */
+
 class ChickenBurger extends Burger {
     
     @Override
