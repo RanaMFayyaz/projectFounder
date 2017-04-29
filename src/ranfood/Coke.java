@@ -5,10 +5,7 @@
  */
 package ranfood;
 
-/**
- *
- * @author Ramis
- */
+
 class Coke extends ColdDrink {
     
     @Override
