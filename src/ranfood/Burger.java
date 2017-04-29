@@ -5,9 +5,7 @@
  */
 package ranfood;
 
-/**
- *
- * @author Ramis
+/*
  */
 abstract class Burger implements Item {
     
