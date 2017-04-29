@@ -5,10 +5,6 @@
  */
 package ranfood;
 
-/**
- *
- * @author Ramis
- */
 class Wrapper implements Packing {
     
     @Override
