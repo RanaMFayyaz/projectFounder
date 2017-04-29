@@ -5,10 +5,7 @@
  */
 package ranfood;
 
-/**
- *
- * @author Ramis
- */
+
 interface Packing {
 
     public String pack();
