@@ -8,10 +8,7 @@ package ranfood;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- *
- * @author Ramis
- */
+
 class Meal implements Cloneable {
     
     private List<Item> items = new ArrayList<Item>();
